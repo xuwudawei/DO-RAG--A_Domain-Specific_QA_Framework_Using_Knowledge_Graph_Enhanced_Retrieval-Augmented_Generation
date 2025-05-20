@@ -56,11 +56,10 @@ DO-RAG provides a scalable, high-precision solution for domain-specific QA acros
 ## Citation
 
 ```
-@article{opoku2023dorag,
+@article{david2025dorag,
   title={DO-RAG: A Domain-Specific QA Framework Using Knowledge Graph-Enhanced Retrieval-Augmented Generation},
   author={Opoku, David Osei and Sheng, Ming and Zhang, Yong},
-  journal={},
-  year={2023},
-  publisher={}
+  year={2025},
+  doi={https://doi.org/10.20944/preprints202505.1592.v1}
 }
 ```
