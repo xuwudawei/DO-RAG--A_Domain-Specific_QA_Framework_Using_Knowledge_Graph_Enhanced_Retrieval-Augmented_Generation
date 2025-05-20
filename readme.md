@@ -49,9 +49,17 @@ DO-RAG provides a scalable, high-precision solution for domain-specific QA acros
 
 ## Authors
 
-- David Osei Opoku - Department of Computer Science and Technology, Tsinghua University, Beijing, China
-- Ming Sheng - Beijing National Research Center for Information Science and Technology - Tsinghua University, Beijing, China
-- Yong Zhang (Corresponding Author) - Beijing National Research Center for Information Science and Technology - Tsinghua University, Beijing, China
+- David Osei Opoku - Department of Computer Science and Technology, Tsinghua University, Beijing, China.
+- Ming Sheng - Beijing National Research Center for Information Science and Technology - Tsinghua University, Beijing, China.
+- Yong Zhang (Corresponding Author) - Beijing National Research Center for Information Science and Technology - Tsinghua University, Beijing, China.
+
+## 📬 Questions & Inquiries
+
+For any questions or clarifications regarding the DO-RAG framework, implementation details, or evaluation methodology, please contact:
+
+* **David Osei Opoku** – [daw23@mails.tsinghua.edu.cn](mailto:daw23@mails.tsinghua.edu.cn)
+
+We’re happy to respond to technical or academic queries.
 
 ## Citation
 
